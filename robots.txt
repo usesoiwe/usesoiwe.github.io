@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://usesoiwe.github.io/sitemap_index.usesoiwe
